@@ -3,6 +3,4 @@
 - 🌱 I’m currently learning Java
 - 📫 dm me @Lexarque on insta
 
-Honestly I don't know what to write in here lmao
-
 
