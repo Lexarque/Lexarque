@@ -8,7 +8,7 @@
 > - Bro I can't even open visual studio and unity without loading for 15 minutes
 > - Yo why are you opening 2 VSCode windows at once! Are you insane?
 </br>
-And that's basically me, a person who's path is still much much much further away :rocket:
+And that's basically me, a person who's end path is still much much much further away :rocket:
 
 ## Achievments :trophy:
 - :page_facing_up: 925 Points, on [TOEIC](https://itc-indonesia.com/toeic/) test for Listening in English, you can see the certificate [here](https://www.linkedin.com/posts/satrialdy-farizki-a2837b232_because-this-will-be-my-first-post-on-linkedin-activity-6912229289933352960-zuCN?utm_source=linkedin_share&utm_medium=member_desktop_web). 
