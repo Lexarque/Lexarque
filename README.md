@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @Lexarque, I'm currently a high school student that's learning full stack web development, I'm currently learning Laravel and Vue, but in the future I'm also interested in learning more frameworks to hone my skill.
+# Hello people of the World Wide Web!:vulcan_salute:
+## About Me :boy:
+<div><p>:loud_sound: My name is SDF, or you can just call me Lex, I am a **Junior Web Developer**</p></div>
 
 
