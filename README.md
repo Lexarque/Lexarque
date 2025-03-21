@@ -1,4 +1,4 @@
-# Hello people of the World Wide Web!:vulcan_salute:
+# Hello people of the World Wide Web!
 ## About Me :boy:
 :loud_sound: My name is SDF, or you can just call me Lex, I am a **Junior Web Developer** (that specializes in **Back-End Development**, learning to be a **Full-Stack Developer**).  
 
